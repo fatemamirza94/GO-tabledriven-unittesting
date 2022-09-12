@@ -1,0 +1,3 @@
+# GO-tabledriven-unittesting
+
+To run the tests: go test ./...
